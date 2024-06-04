@@ -5,7 +5,7 @@ export default function PrivacyPolicy() {
   return (
     <>
       <header>
-        <h1>Privacy Policy</h1>
+        <h1 className="mb-8 text-2xl font-semibold tracking-tighter">Privacy Policy</h1>
       </header>
 
       <main>

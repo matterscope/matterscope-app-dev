@@ -5,11 +5,11 @@ export default function TermsOfService() {
   return (
     <>
       <header>
-        <h1>Terms of Service</h1>
+        <h1 className="mb-8 text-2xl font-semibold tracking-tighter">Terms of Service</h1>
       </header>
 
       <main>
-        <section>
+        <section className="mb-4">
           <h2>Effective Date: [Insert Date]</h2>
           <p>Welcome to Matterscope. These Terms of Service ("Terms") govern your use of our mobile application ("App"). By using our App, you agree to comply with these Terms. If you do not agree with these Terms, please do not use our App.</p>
 

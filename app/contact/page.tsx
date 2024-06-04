@@ -5,7 +5,7 @@ export default function Contact() {
   return (
     <>
       <header>
-        <h1>Contact Us</h1>
+        <h1 className="mb-8 text-2xl font-semibold tracking-tighter">Contact Us</h1>
       </header>
 
       <main>
