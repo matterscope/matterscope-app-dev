@@ -7,14 +7,7 @@ export default function TermsOfService() {
       <header>
         <h1>Terms of Service</h1>
       </header>
-      <nav>
-        <ul>
-          <li><Link href="/">Home</Link></li>
-          <li><Link href="/privacy-policy">Privacy Policy</Link></li>
-          <li><Link href="/terms-of-service">Terms of Service</Link></li>
-          <li><Link href="/contact">Contact Us</Link></li>
-        </ul>
-      </nav>
+
       <main>
         <section>
           <h2>Effective Date: [Insert Date]</h2>

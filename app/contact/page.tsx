@@ -7,14 +7,7 @@ export default function Contact() {
       <header>
         <h1>Contact Us</h1>
       </header>
-      <nav>
-        <ul>
-          <li><Link href="/">Home</Link></li>
-          <li><Link href="/privacy-policy">Privacy Policy</Link></li>
-          <li><Link href="/terms-of-service">Terms of Service</Link></li>
-          <li><Link href="/contact">Contact Us</Link></li>
-        </ul>
-      </nav>
+
       <main>
         <section>
           <h2>We'd love to hear from you!</h2>
