@@ -10,7 +10,7 @@ export default function TermsOfService() {
 
       <main>
         <section className="mb-4">
-          <h2>Effective Date: [Insert Date]</h2>
+          <h2>Effective Date: June 06, 2024</h2>
           <p>Welcome to Matterscope. These Terms of Service ("Terms") govern your use of our mobile application ("App"). By using our App, you agree to comply with these Terms. If you do not agree with these Terms, please do not use our App.</p>
 
           <h3>Use of the App</h3>
