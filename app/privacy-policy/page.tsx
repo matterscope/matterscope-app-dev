@@ -16,7 +16,7 @@ export default function PrivacyPolicy() {
       </nav>
       <main>
         <section>
-          <h2>Effective Date: [Insert Date]</h2>
+          <h2>Effective Date: June 06, 2024</h2>
           <p>This Privacy Policy describes how Matterscope ("we", "our", or "us") collects, uses, and shares information about you when you use our mobile application ("App").</p>
 
           <h3>Information We Collect</h3>

@@ -7,12 +7,12 @@ const navItems = {
   '/blog': {
     name: 'blog',
   },
-  '/privacy-policy': {
-    name: 'privacy policy',
-  },
-  '/terms-of-service': {
-    name: 'terms of service',
-  },
+  // '/privacy-policy': {
+  //   name: 'privacy policy',
+  // },
+  // '/terms-of-service': {
+  //   name: 'terms of service',
+  // },
   '/contact': {
     name: 'contact us',
   },
